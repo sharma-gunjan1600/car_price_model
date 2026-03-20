@@ -36,7 +36,6 @@ def get_details():
     kms_min = int(filtered['kms_driven'].min())
     kms_max = int(filtered['kms_driven'].max())
 
-    # Expand range if identical
     if kms_min == kms_max:
         buffer = int(kms_min * 0.10)
         kms_min -= buffer
@@ -54,11 +53,11 @@ def predict():
 
     name = request.form['name']
     year = int(request.form['year'])
-    fuel = request.form['fuel']
+    fuel = request.form['fuel']                 # HTML gives 'fuel'
     company = request.form['company']
-    kms_input = request.form['kms']
+    kms_input = request.form['kms']             # HTML gives 'kms'
 
-    # KM required
+    # KM required (your validation logic untouched)
     if kms_input.strip() == "":
         return render_template(
             "index.html",
@@ -77,10 +76,10 @@ def predict():
 
     kms = int(kms_input)
 
-    # Prepare input for model
+    # ✅ FIXED: Correct order & correct field mapping for the model
     input_df = pd.DataFrame(
-        [[name, company, year, kms, fuel]],
-        columns=['name', 'company', 'year', 'kms_driven', 'fuel_type']
+        [[name, company, fuel, year, kms]],
+        columns=['name', 'company', 'fuel_type', 'year', 'kms_driven']
     )
 
     pred = model.predict(input_df)[0]
