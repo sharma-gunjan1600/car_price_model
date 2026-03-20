@@ -1,0 +1,837 @@
+,name,company,year,Price,kms_driven,fuel_type
+0,Hyundai Santro Xing,Hyundai,2007,80000.0,45000,Petrol
+1,Mahindra Jeep CL550,Mahindra,2006,425000.0,40,Diesel
+2,Maruti Suzuki Alto,Maruti,2018,404688.53,22000,Petrol
+3,Hyundai Grand i10,Hyundai,2014,325000.0,28000,Petrol
+4,Ford EcoSport Titanium,Ford,2014,575000.0,36000,Diesel
+5,Ford EcoSport Titanium,Ford,2015,404688.53,59000,Diesel
+6,Ford Figo,Ford,2012,175000.0,41000,Diesel
+7,Hyundai Eon,Hyundai,2013,190000.0,25000,Petrol
+8,Ford EcoSport Ambiente,Ford,2016,830000.0,24530,Diesel
+9,Maruti Suzuki Alto,Maruti,2015,250000.0,60000,Petrol
+10,Skoda Fabia Classic,Skoda,2010,182000.0,60000,Petrol
+11,Maruti Suzuki Stingray,Maruti,2015,315000.0,30000,Petrol
+12,Hyundai Elite i20,Hyundai,2014,415000.0,32000,Petrol
+13,Mahindra Scorpio SLE,Mahindra,2015,320000.0,48660,Diesel
+14,Hyundai Santro Xing,Hyundai,2007,80000.0,45000,Petrol
+15,Mahindra Jeep CL550,Mahindra,2006,425000.0,40,Diesel
+16,Audi A8,Audi,2017,1000000.0,4000,Petrol
+17,Audi Q7,Audi,2014,500000.0,16934,Diesel
+18,Mahindra Scorpio S10,Mahindra,2016,350000.0,43000,Diesel
+19,Maruti Suzuki Alto,Maruti,2014,160000.0,35550,Petrol
+20,Mahindra Scorpio S10,Mahindra,2016,350000.0,43000,Diesel
+21,Mahindra Scorpio S10,Mahindra,2016,310000.0,39522,Diesel
+22,Maruti Suzuki Alto,Maruti,2015,75000.0,39000,Petrol
+23,Hyundai i20 Sportz,Hyundai,2012,100000.0,55000,Petrol
+24,Hyundai i20 Sportz,Hyundai,2012,100000.0,55000,Petrol
+25,Hyundai i20 Sportz,Hyundai,2012,100000.0,55000,Petrol
+26,Maruti Suzuki Alto,Maruti,2017,190000.0,72000,Petrol
+27,Maruti Suzuki Vitara,Maruti,2016,290000.0,15975,Diesel
+28,Maruti Suzuki Alto,Maruti,2008,95000.0,70000,Petrol
+29,Mahindra Bolero DI,Mahindra,2017,180000.0,23452,Diesel
+30,Maruti Suzuki Swift,Maruti,2014,385000.0,35522,Diesel
+31,Mahindra Scorpio S10,Mahindra,2015,250000.0,48508,Diesel
+32,Maruti Suzuki Swift,Maruti,2017,180000.0,15487,Petrol
+33,Maruti Suzuki Wagon,Maruti,2013,105000.0,39000,Petrol
+34,Maruti Suzuki Wagon,Maruti,2013,105000.0,39000,Petrol
+35,Toyota Innova 2.0,Toyota,2012,650000.0,82000,Diesel
+36,Renault Lodgy 85,Renault,2018,689999.0,20000,Diesel
+37,Skoda Yeti Ambition,Skoda,2012,448000.0,68000,Diesel
+38,Maruti Suzuki Baleno,Maruti,2017,549000.0,32000,Diesel
+39,Renault Duster 110,Renault,2012,501000.0,38000,Diesel
+40,Renault Duster 85,Renault,2013,489999.0,27000,Diesel
+41,Honda City 1.5,Honda,2011,280000.0,33000,Petrol
+42,Maruti Suzuki Alto,Maruti,2015,250000.0,60000,Petrol
+43,Maruti Suzuki Dzire,Maruti,2013,349999.0,46000,Diesel
+44,Honda Amaze,Honda,2013,284999.0,46000,Diesel
+45,Honda Amaze 1.5,Honda,2015,345000.0,36000,Diesel
+46,Honda City,Honda,2015,499999.0,55000,Petrol
+47,Datsun Redi GO,Datsun,2017,235000.0,16000,Petrol
+48,Maruti Suzuki SX4,Maruti,2010,249999.0,36000,Petrol
+49,Mitsubishi Pajero Sport,Mitsubishi,2015,1475000.0,47000,Diesel
+50,Mahindra Bolero DI,Mahindra,2017,180000.0,23452,Diesel
+51,Maruti Suzuki Swift,Maruti,2014,385000.0,35522,Diesel
+52,Mahindra Scorpio S10,Mahindra,2015,250000.0,48508,Diesel
+53,Maruti Suzuki Swift,Maruti,2017,180000.0,15487,Petrol
+54,Maruti Suzuki Wagon,Maruti,2013,105000.0,39000,Petrol
+55,Maruti Suzuki Wagon,Maruti,2013,105000.0,39000,Petrol
+56,Mahindra Scorpio S10,Mahindra,2015,395000.0,35000,Diesel
+57,Maruti Suzuki Swift,Maruti,2017,220000.0,30874,Petrol
+58,Honda City ZX,Honda,2017,170000.0,15000,Diesel
+59,Maruti Suzuki Wagon,Maruti,2013,85000.0,29685,Petrol
+60,Ford Figo,Ford,2012,175000.0,41000,Diesel
+61,Hyundai Eon,Hyundai,2013,190000.0,25000,Petrol
+62,Tata Indigo eCS,Tata,2017,200000.0,130000,Diesel
+63,Ford EcoSport Ambiente,Ford,2016,830000.0,24530,Diesel
+64,Tata Indigo eCS,Tata,2017,200000.0,130000,Diesel
+65,Mahindra Scorpio SLE,Mahindra,2012,570000.0,19000,Diesel
+66,Volkswagen Polo Highline,Volkswagen,2014,315000.0,60000,Petrol
+67,Skoda Fabia Classic,Skoda,2010,182000.0,60000,Petrol
+68,Maruti Suzuki Stingray,Maruti,2015,315000.0,30000,Petrol
+69,Chevrolet Spark LS,Chevrolet,2010,110000.0,41000,Petrol
+70,Renault Duster 110PS,Renault,2012,501000.0,35000,Diesel
+71,Honda City,Honda,2015,448999.0,54000,Petrol
+72,Mini Cooper S,Mini,2013,1891111.0,13000,Petrol
+73,Datsun Redi GO,Datsun,2017,235000.0,16000,Petrol
+74,Skoda Fabia 1.2L,Skoda,2011,159500.0,38200,Diesel
+75,Honda Amaze,Honda,2015,344999.0,22000,Petrol
+76,Honda Amaze,Honda,2015,344999.0,22000,Petrol
+77,Renault Duster,Renault,2014,449999.0,50000,Diesel
+78,Mini Cooper S,Mini,2013,1891111.0,13500,Petrol
+79,Mahindra Scorpio S4,Mahindra,2015,865000.0,30000,Diesel
+80,Mahindra Scorpio VLX,Mahindra,2014,699000.0,50000,Diesel
+81,Mahindra Quanto C8,Mahindra,2013,375000.0,20000,Diesel
+82,Ford EcoSport,Ford,2017,489999.0,39000,Petrol
+83,Honda Brio,Honda,2012,224999.0,30000,Petrol
+84,Volkswagen Vento Highline,Volkswagen,2019,1200000.0,3600,Diesel
+85,Hyundai i20 Magna,Hyundai,2009,195000.0,32000,Petrol
+86,Toyota Corolla Altis,Toyota,2010,351000.0,38000,Diesel
+87,Hyundai Verna Transform,Hyundai,2008,160000.0,45000,Petrol
+88,Toyota Corolla Altis,Toyota,2009,240000.0,35000,Petrol
+89,Honda City 1.5,Honda,2005,90000.0,50000,Petrol
+90,Hyundai Elite i20,Hyundai,2014,415000.0,32000,Petrol
+91,Skoda Fabia 1.2L,Skoda,2011,155000.0,45863,Diesel
+92,BMW 3 Series,BMW,2011,600000.0,60500,Petrol
+93,Maruti Suzuki A,Maruti,2011,189500.0,12500,Petrol
+94,Toyota Etios GD,Toyota,2013,350000.0,60000,Diesel
+95,Ford Figo Diesel,Ford,2012,210000.0,35000,Diesel
+96,Maruti Suzuki Swift,Maruti,2014,390000.0,35000,Petrol
+97,Chevrolet Beat LT,Chevrolet,2012,135000.0,45000,Diesel
+98,BMW 7 Series,BMW,2009,1600000.0,35000,Petrol
+99,Mahindra XUV500 W8,Mahindra,2013,701000.0,38000,Diesel
+100,Hyundai i10 Magna,Hyundai,2014,265000.0,18000,Petrol
+101,Hyundai Verna Fluidic,Hyundai,2015,525000.0,35000,Diesel
+102,Maruti Suzuki Swift,Maruti,2013,372000.0,13349,Petrol
+103,Maruti Suzuki Ertiga,Maruti,2016,635000.0,29000,Petrol
+104,Ford EcoSport Titanium,Ford,2014,550000.0,44000,Diesel
+105,Maruti Suzuki Ertiga,Maruti,2016,575000.0,29000,Petrol
+106,Maruti Suzuki Ertiga,Maruti,2013,485000.0,42000,Diesel
+107,Maruti Suzuki Alto,Maruti,2012,155000.0,14000,Petrol
+108,Hyundai Grand i10,Hyundai,2014,345000.0,49000,Diesel
+109,Honda Amaze 1.2,Honda,2014,325000.0,42000,Petrol
+110,Hyundai i20 Asta,Hyundai,2012,329500.0,36200,Diesel
+111,Ford Figo Diesel,Ford,2014,195000.0,50000,Diesel
+112,Maruti Suzuki Eeco,Maruti,2015,251111.0,55000,Petrol
+113,Maruti Suzuki Ertiga,Maruti,2014,569999.0,45000,Petrol
+114,Maruti Suzuki Esteem,Maruti,2007,69999.0,51000,Petrol
+115,Maruti Suzuki Ritz,Maruti,2014,299999.0,19000,Petrol
+116,Maruti Suzuki Dzire,Maruti,2009,220000.0,46000,Petrol
+117,Maruti Suzuki Ritz,Maruti,2013,399999.0,33000,Diesel
+118,Maruti Suzuki Swift,Maruti,2013,372000.0,13349,Petrol
+119,Maruti Suzuki Dzire,Maruti,2015,450000.0,104000,Diesel
+120,Toyota Etios Liva,Toyota,2014,270000.0,55000,Petrol
+121,Hyundai i20 Sportz,Hyundai,2011,350000.0,33333,Diesel
+122,Chevrolet Spark,Chevrolet,2012,158400.0,33600,Petrol
+123,Maruti Suzuki Alto,Maruti,2017,350000.0,5600,Petrol
+124,Nissan Micra XV,Nissan,2011,179000.0,41000,Petrol
+125,Maruti Suzuki Swift,Maruti,2007,125000.0,70000,Petrol
+126,Maruti Suzuki Alto,Maruti,2018,200000.0,7500,Petrol
+127,Honda Amaze 1.5,Honda,2013,299000.0,45000,Diesel
+128,Maruti Suzuki Alto,Maruti,2015,220000.0,38000,Petrol
+129,Chevrolet Beat,Chevrolet,2015,150000.0,30000,Petrol
+130,Honda City 1.5,Honda,2010,285000.0,35000,Petrol
+131,Ford EcoSport Trend,Ford,2016,830000.0,24330,Diesel
+132,Hyundai i20 Asta,Hyundai,2009,210000.0,65480,Petrol
+133,Maruti Suzuki Swift,Maruti,2013,340000.0,41000,Petrol
+134,Tata Indica V2,Tata,2006,90000.0,20000,Petrol
+135,Maruti Suzuki Alto,Maruti,2018,404688.53,28028,Petrol
+136,Hindustan Motors Ambassador,Hindustan,2000,70000.0,200000,Diesel
+137,Toyota Corolla Altis,Toyota,2010,289999.0,70000,Petrol
+138,Toyota Corolla Altis,Toyota,2012,349999.0,59000,Petrol
+139,Toyota Innova 2.5,Toyota,2012,849999.0,99000,Diesel
+140,Volkswagen Jetta Highline,Volkswagen,2014,749999.0,46000,Diesel
+141,Volkswagen Polo Comfortline,Volkswagen,2015,399999.0,2800,Petrol
+142,Volkswagen Polo,Volkswagen,2014,274999.0,32000,Petrol
+143,Mahindra Scorpio,Mahindra,2015,984999.0,22000,Diesel
+144,Renault Duster,Renault,2014,449999.0,50000,Diesel
+145,Honda Amaze,Honda,2015,344999.0,22000,Petrol
+146,Nissan Sunny,Nissan,2012,224999.0,45000,Petrol
+147,Hyundai Elite i20,Hyundai,2018,599999.0,21000,Petrol
+148,Renault Kwid,Renault,2016,244999.0,11000,Petrol
+149,Renault Duster,Renault,2013,399999.0,41000,Diesel
+150,Ford EcoSport,Ford,2017,489999.0,39000,Petrol
+151,Renault Duster,Renault,2014,474999.0,50000,Diesel
+152,Mahindra Scorpio VLX,Mahindra,2011,499999.0,66000,Diesel
+153,Maruti Suzuki Alto,Maruti,2018,310000.0,3000,Petrol
+154,Chevrolet Spark LT,Chevrolet,2010,85000.0,45000,Petrol
+155,Datsun Redi GO,Datsun,2016,245000.0,7000,Petrol
+156,Maruti Suzuki Swift,Maruti,2010,189500.0,38500,Diesel
+157,Fiat Punto Emotion,Fiat,2012,169500.0,37200,Diesel
+158,Maruti Suzuki Swift,Maruti,2010,159500.0,43200,Diesel
+159,Toyota Etios GD,Toyota,2013,275000.0,24800,Petrol
+160,Hyundai i20 Sportz,Hyundai,2014,370000.0,60000,Diesel
+161,Hyundai i10 Sportz,Hyundai,2010,168000.0,45872,Petrol
+162,Chevrolet Beat LT,Chevrolet,2011,150000.0,40000,Diesel
+163,Chevrolet Beat LS,Chevrolet,2011,145000.0,45000,Diesel
+164,Chevrolet Beat LT,Chevrolet,2012,98500.0,38000,Diesel
+165,Mahindra Scorpio VLX,Mahindra,2014,699000.0,50000,Diesel
+166,Tata Indigo CS,Tata,2011,85000.0,11400,Diesel
+167,Toyota Corolla Altis,Toyota,2015,575000.0,42000,Petrol
+168,Honda City 1.5,Honda,2014,549000.0,39000,Petrol
+169,Maruti Suzuki Swift,Maruti,2011,209000.0,47000,Diesel
+170,Hyundai Eon Era,Hyundai,2013,185000.0,27000,Petrol
+171,Mahindra Scorpio S10,Mahindra,2015,900000.0,97200,Diesel
+172,Mahindra XUV500,Mahindra,2014,699999.0,52000,Diesel
+173,Honda Brio,Honda,2012,224999.0,30000,Petrol
+174,Ford Fiesta,Ford,2011,274999.0,55000,Diesel
+175,Honda Amaze,Honda,2013,284999.0,46000,Diesel
+176,Honda City,Honda,2015,599999.0,30000,Diesel
+177,Maruti Suzuki Wagon,Maruti,2012,199999.0,44000,Petrol
+178,Honda City,Honda,2014,544999.0,45000,Diesel
+179,Hyundai i20,Hyundai,2009,199000.0,31000,Petrol
+180,Tata Indigo eCS,Tata,2016,320000.0,175430,Diesel
+181,Hyundai Fluidic Verna,Hyundai,2015,540000.0,38000,Diesel
+182,Mahindra Quanto C8,Mahindra,2013,340000.0,37000,Diesel
+183,Fiat Petra ELX,Fiat,2008,75000.0,65000,Petrol
+184,Skoda Fabia 1.2L,Skoda,2011,159500.0,38200,Diesel
+185,Mini Cooper S,Mini,2013,1891111.0,13000,Petrol
+186,Hyundai Santro Xing,Hyundai,2005,49000.0,7500,Petrol
+187,Maruti Suzuki Ciaz,Maruti,2016,700000.0,3350,Petrol
+188,Maruti Suzuki Zen,Maruti,2000,55000.0,60000,Petrol
+189,Honda City,Honda,2015,448999.0,54000,Petrol
+190,Hyundai Creta 1.6,Hyundai,2017,895000.0,32000,Petrol
+191,Mahindra Scorpio SLX,Mahindra,2007,355000.0,75000,Diesel
+192,Mahindra Scorpio SLE,Mahindra,2012,565000.0,62000,Diesel
+193,Toyota Innova 2.5,Toyota,2006,365000.0,73000,Diesel
+194,Maruti Suzuki Alto,Maruti,2011,145000.0,41000,Petrol
+195,Maruti Suzuki Wagon,Maruti,2011,210000.0,35000,Petrol
+196,Tata Nano Cx,Tata,2013,40000.0,2200,Petrol
+197,Maruti Suzuki Alto,Maruti,2013,125000.0,39000,Petrol
+198,Maruti Suzuki Wagon,Maruti,2009,135000.0,45000,Petrol
+199,Maruti Suzuki Swift,Maruti,2006,135000.0,45000,Petrol
+200,Tata Sumo Victa,Tata,2012,285000.0,65000,Diesel
+201,Maruti Suzuki Wagon,Maruti,2010,145000.0,54870,Petrol
+202,Maruti Suzuki Alto,Maruti,2010,135000.0,34580,Petrol
+203,Volkswagen Passat Diesel,Volkswagen,2009,450000.0,97000,Diesel
+204,Renault Scala RxL,Renault,2015,375000.0,25000,Diesel
+205,Mahindra Quanto C8,Mahindra,2013,375000.0,20000,Diesel
+206,Hyundai Grand i10,Hyundai,2014,365000.0,20000,Petrol
+207,Hyundai i20 Active,Hyundai,2015,500000.0,18000,Petrol
+208,Mahindra Xylo E4,Mahindra,2012,400000.0,35000,Diesel
+209,Mahindra Jeep MM,Mahindra,2019,390000.0,60,Diesel
+210,Renault Duster 110PS,Renault,2012,501000.0,35000,Diesel
+211,Mahindra Bolero SLE,Mahindra,2013,330000.0,80200,Diesel
+212,Force Motors Force,Force,2015,580000.0,3200,Diesel
+213,Maruti Suzuki SX4,Maruti,2012,265000.0,46000,Diesel
+214,Mahindra Jeep CL550,Mahindra,2019,379000.0,0,Diesel
+215,Maruti Suzuki Alto,Maruti,2015,219000.0,5000,Petrol
+216,Mahindra Jeep CL550,Mahindra,2018,385000.0,588,Diesel
+217,Toyota Etios,Toyota,2011,275000.0,36000,Diesel
+218,Volkswagen Polo,Volkswagen,2015,330000.0,38000,Diesel
+219,Honda City ZX,Honda,2008,110000.0,45000,Petrol
+220,Maruti Suzuki Wagon,Maruti,2006,80000.0,71200,Petrol
+221,Honda City VX,Honda,2016,519000.0,52000,Diesel
+222,Mahindra Thar CRDe,Mahindra,2016,730000.0,29000,Diesel
+223,Mitsubishi Pajero Sport,Mitsubishi,2015,1475000.0,47000,Diesel
+224,Audi A4 1.8,Audi,2009,699000.0,47000,Petrol
+225,Mercedes Benz GLA,Mercedes,2015,2000000.0,20000,Diesel
+226,Land Rover Freelander,Land,2015,2100000.0,30000,Diesel
+227,Renault Kwid RXT,Renault,2017,340000.0,5000,Petrol
+228,Tata Aria Pleasure,Tata,2014,390000.0,35000,Diesel
+229,Mercedes Benz B,Mercedes,2014,1400000.0,31000,Petrol
+230,Datsun GO T,Datsun,2016,245000.0,7000,Petrol
+231,Tata Indigo eCS,Tata,2016,320000.0,175430,Diesel
+232,Tata Indigo eCS,Tata,2016,320000.0,175400,Diesel
+233,Honda Jazz VX,Honda,2016,450000.0,41000,Petrol
+234,Honda Amaze 1.2,Honda,2014,311000.0,33000,Petrol
+235,Honda Amaze,Honda,2013,284999.0,46000,Diesel
+236,Honda City,Honda,2012,399999.0,45000,Petrol
+237,Honda City,Honda,2015,599999.0,39000,Diesel
+238,Honda Amaze,Honda,2015,344999.0,22000,Petrol
+239,Audi A4 1.8,Audi,2009,699000.0,47000,Petrol
+240,Force Motors Force,Force,2015,580000.0,3200,Diesel
+241,Mahindra Scorpio S4,Mahindra,2015,855000.0,30000,Diesel
+242,Hyundai i20 Active,Hyundai,2015,535000.0,37000,Diesel
+243,Mini Cooper S,Mini,2013,1891111.0,13000,Petrol
+244,Maruti Suzuki Ciaz,Maruti,2017,699000.0,14000,Petrol
+245,Chevrolet Tavera Neo,Chevrolet,2013,375000.0,55000,Diesel
+246,Honda Amaze,Honda,2013,284999.0,46000,Diesel
+247,Hyundai Eon Sportz,Hyundai,2012,178000.0,30000,Petrol
+248,Tata Sumo Gold,Tata,2013,300000.0,50000,Diesel
+249,Maruti Suzuki Wagon,Maruti,2003,90000.0,45000,Petrol
+250,Maruti Suzuki Esteem,Maruti,2006,95000.0,45000,Petrol
+251,Maruti Suzuki Eeco,Maruti,2015,255000.0,9300,Petrol
+252,Chevrolet Enjoy 1.4,Chevrolet,2013,245000.0,55000,Diesel
+253,Hyundai i20 Asta,Hyundai,2012,329500.0,36200,Diesel
+254,Ford Figo Diesel,Ford,2014,195000.0,50000,Diesel
+255,Maruti Suzuki Eeco,Maruti,2015,251111.0,55000,Petrol
+256,Maruti Suzuki Ertiga,Maruti,2014,569999.0,45000,Petrol
+257,Maruti Suzuki Esteem,Maruti,2007,69999.0,51000,Petrol
+258,Maruti Suzuki Ritz,Maruti,2014,299999.0,19000,Petrol
+259,Maruti Suzuki Dzire,Maruti,2009,220000.0,46000,Petrol
+260,Maruti Suzuki Ritz,Maruti,2013,399999.0,33000,Diesel
+261,Maruti Suzuki SX4,Maruti,2010,249999.0,36000,Petrol
+262,Maruti Suzuki Wagon,Maruti,2015,289999.0,22000,Petrol
+263,Mini Cooper S,Mini,2013,1891111.0,13500,Petrol
+264,Nissan Terrano XL,Nissan,2015,499999.0,60000,Diesel
+265,Renault Duster 85,Renault,2013,489999.0,27000,Diesel
+266,Renault Duster 85,Renault,2014,489999.0,59000,Diesel
+267,Renault Duster 85,Renault,2015,549999.0,19000,Diesel
+268,Maruti Suzuki Dzire,Maruti,2013,380000.0,30000,Petrol
+269,Renault Kwid RXT,Renault,2018,325000.0,15000,Petrol
+270,Maruti Suzuki Maruti,Maruti,2003,57000.0,56758,Petrol
+271,Renault Kwid 1.0,Renault,2018,349999.0,10000,Petrol
+272,Renault Lodgy 85,Renault,2018,689999.0,20000,Diesel
+273,Renault Scala RxL,Renault,2014,349999.0,49000,Diesel
+274,Hyundai Grand i10,Hyundai,2014,410000.0,41000,Petrol
+275,Maruti Suzuki Swift,Maruti,2011,225000.0,45000,Petrol
+276,Chevrolet Beat LS,Chevrolet,2010,120000.0,43000,Petrol
+277,Tata Indigo eCS,Tata,2016,320000.0,175430,Diesel
+278,Hyundai Santro Xing,Hyundai,2000,59000.0,56450,Petrol
+279,Hyundai Fluidic Verna,Hyundai,2015,540000.0,38000,Diesel
+280,Chevrolet Beat LS,Chevrolet,2010,80000.0,56000,Petrol
+281,Mahindra Quanto C8,Mahindra,2013,340000.0,37000,Diesel
+282,Fiat Petra ELX,Fiat,2008,75000.0,65000,Petrol
+283,Chevrolet Beat LS,Chevrolet,2015,220000.0,32700,Petrol
+284,Skoda Fabia 1.2L,Skoda,2011,159500.0,38200,Diesel
+285,Ford EcoSport Titanium,Ford,2016,599000.0,30000,Diesel
+286,Hyundai Accent GLX,Hyundai,2006,80000.0,56000,Petrol
+287,Maruti Suzuki Swift,Maruti,2010,404688.53,52000,Diesel
+288,Mahindra TUV300 T4,Mahindra,2016,675000.0,9000,Diesel
+289,Mini Cooper S,Mini,2013,1891111.0,13000,Petrol
+290,Mini Cooper S,Mini,2013,1891111.0,13000,Petrol
+291,Tata Indica V2,Tata,2008,150000.0,11000,Petrol
+292,Mini Cooper S,Mini,2013,1891111.0,13000,Petrol
+293,Tata Indigo CS,Tata,2009,72500.0,46000,Diesel
+294,Maruti Suzuki Swift,Maruti,2019,610000.0,73,Petrol
+295,Mahindra Scorpio VLX,Mahindra,2004,230000.0,160000,Diesel
+296,Tata Indica eV2,Tata,2017,404688.53,84000,Diesel
+297,Honda Accord,Honda,2009,175000.0,58559,Petrol
+298,Mahindra Scorpio S4,Mahindra,2015,855000.0,30000,Diesel
+299,Chevrolet Tavera Neo,Chevrolet,2013,375000.0,55000,Diesel
+300,Ford EcoSport Titanium,Ford,2014,520000.0,57000,Diesel
+301,Maruti Suzuki Ertiga,Maruti,2015,524999.0,50000,Diesel
+302,Honda Amaze,Honda,2014,299999.0,37000,Petrol
+303,Maruti Suzuki Dzire,Maruti,2012,299999.0,40000,Petrol
+304,Honda City,Honda,2011,284999.0,55000,Petrol
+305,Mahindra Scorpio 2.6,Mahindra,2007,220000.0,170000,Diesel
+306,Maruti Suzuki Dzire,Maruti,2014,424999.0,55000,Diesel
+307,Honda City,Honda,2015,644999.0,39000,Petrol
+308,Honda Mobilio,Honda,2014,399999.0,44000,Petrol
+309,Toyota Corolla Altis,Toyota,2009,199999.0,65000,Petrol
+310,Honda City,Honda,2014,584999.0,39000,Petrol
+311,Skoda Laura,Skoda,2012,349999.0,44000,Diesel
+312,Renault Duster,Renault,2015,449999.0,49000,Diesel
+313,Maruti Suzuki Ertiga,Maruti,2018,799999.0,9000,Diesel
+314,Maruti Suzuki Dzire,Maruti,2015,444999.0,45000,Diesel
+315,Mahindra XUV500,Mahindra,2014,649999.0,47000,Diesel
+316,Hyundai Verna Fluidic,Hyundai,2012,444999.0,40000,Diesel
+317,Maruti Suzuki Vitara,Maruti,2016,689999.0,29000,Diesel
+318,Maruti Suzuki Wagon,Maruti,2016,344999.0,15000,Petrol
+319,Mahindra Scorpio,Mahindra,2015,944999.0,45000,Diesel
+320,Honda Amaze,Honda,2014,274999.0,35000,Petrol
+321,Mahindra XUV500,Mahindra,2013,689999.0,80000,Diesel
+322,Mahindra Scorpio,Mahindra,2013,574999.0,68000,Diesel
+323,Skoda Laura,Skoda,2013,374999.0,50000,Diesel
+324,Volkswagen Polo,Volkswagen,2010,199999.0,60000,Diesel
+325,Hyundai Elite i20,Hyundai,2016,549999.0,9000,Petrol
+326,Tata Manza Aura,Tata,2012,130000.0,72000,Diesel
+327,Chevrolet Sail UVA,Chevrolet,2013,210000.0,60000,Petrol
+328,Renault Duster 110,Renault,2012,501000.0,38000,Diesel
+329,Hyundai Verna Fluidic,Hyundai,2013,401000.0,45000,Diesel
+330,Audi A4 2.0,Audi,2012,1350000.0,40000,Diesel
+331,Hyundai Elantra SX,Hyundai,2013,600000.0,20000,Petrol
+332,Mahindra Scorpio VLX,Mahindra,2013,610000.0,35000,Diesel
+333,Mahindra KUV100 K8,Mahindra,2016,400000.0,20000,Diesel
+334,Renault Scala RxL,Renault,2015,375000.0,25000,Diesel
+335,Mahindra Quanto C8,Mahindra,2013,375000.0,20000,Diesel
+336,Hyundai Grand i10,Hyundai,2014,365000.0,20000,Petrol
+337,Hyundai i20 Active,Hyundai,2015,500000.0,18000,Petrol
+338,Mahindra Xylo E4,Mahindra,2012,400000.0,35000,Diesel
+339,Hyundai Grand i10,Hyundai,2017,524999.0,6821,Petrol
+340,Hyundai i20,Hyundai,2014,449999.0,23000,Petrol
+341,Hyundai Eon,Hyundai,2014,174999.0,14000,Petrol
+342,Hyundai i10,Hyundai,2012,244999.0,38000,Petrol
+343,Hyundai i20 Active,Hyundai,2015,574999.0,35000,Diesel
+344,Datsun Redi GO,Datsun,2017,244999.0,22000,Petrol
+345,Toyota Etios Liva,Toyota,2011,239999.0,41000,Petrol
+346,Hyundai Accent,Hyundai,2010,99999.0,45000,Petrol
+347,Hyundai Verna,Hyundai,2014,489999.0,44000,Diesel
+348,Maruti Suzuki Swift,Maruti,2013,324999.0,45000,Diesel
+349,Toyota Fortuner,Toyota,2011,1074999.0,52000,Diesel
+350,Hyundai i10 Sportz,Hyundai,2012,230000.0,34000,Petrol
+351,Mahindra Bolero Power,Mahindra,2018,699000.0,1800,Diesel
+352,Mahindra XUV500,Mahindra,2015,1000000.0,15000,Diesel
+353,Honda City 1.5,Honda,2010,240000.0,400000,Petrol
+354,Chevrolet Spark LT,Chevrolet,2009,110000.0,44000,Petrol
+355,Mahindra Jeep MM,Mahindra,2019,390000.0,60,Diesel
+356,Renault Duster 110PS,Renault,2012,501000.0,35000,Diesel
+357,Mahindra XUV500,Mahindra,2016,1130000.0,72000,Diesel
+358,Tata Indigo eCS,Tata,2014,250000.0,40000,Diesel
+359,Mahindra Bolero SLE,Mahindra,2013,330000.0,80200,Diesel
+360,Force Motors Force,Force,2015,580000.0,3200,Diesel
+361,Skoda Rapid Elegance,Skoda,2013,340000.0,48000,Diesel
+362,Tata Vista Quadrajet,Tata,2011,120000.0,90000,Diesel
+363,Maruti Suzuki Alto,Maruti,2015,265000.0,12000,Petrol
+364,Maruti Suzuki SX4,Maruti,2012,265000.0,46000,Diesel
+365,Maruti Suzuki Zen,Maruti,2003,85000.0,69900,Petrol
+366,Mahindra Jeep CL550,Mahindra,2019,379000.0,0,Diesel
+367,Hyundai i10 Magna,Hyundai,2011,175000.0,45000,Petrol
+368,Maruti Suzuki Alto,Maruti,2015,219000.0,5000,Petrol
+369,Maruti Suzuki Swift,Maruti,2016,350000.0,166000,Diesel
+370,Honda City ZX,Honda,2008,149000.0,42000,Petrol
+371,Mahindra Jeep CL550,Mahindra,2018,385000.0,588,Diesel
+372,Mahindra Jeep MM,Mahindra,2006,425000.0,122,Diesel
+373,Chevrolet Beat Diesel,Chevrolet,2017,150000.0,62000,Diesel
+374,Honda City 1.5,Honda,2010,225000.0,70000,Petrol
+375,Hyundai Verna 1.4,Hyundai,2014,375000.0,36000,Petrol
+376,Toyota Innova 2.5,Toyota,2012,770000.0,0,Diesel
+377,Maruti Suzuki Alto,Maruti,2018,404688.53,24000,Petrol
+378,Maruti Suzuki Maruti,Maruti,1995,30000.0,55000,Petrol
+379,Toyota Etios,Toyota,2011,275000.0,36000,Diesel
+380,Volkswagen Polo,Volkswagen,2015,330000.0,38000,Diesel
+381,Maruti Suzuki Swift,Maruti,2014,335000.0,55000,Diesel
+382,Hyundai Elite i20,Hyundai,2015,450000.0,20000,Diesel
+383,Maruti Suzuki Swift,Maruti,2012,225000.0,40000,Petrol
+384,Maruti Suzuki Versa,Maruti,2004,80000.0,50000,Petrol
+385,Tata Indigo LX,Tata,2016,130000.0,104000,Diesel
+386,Volkswagen Vento Konekt,Volkswagen,2011,245000.0,65000,Diesel
+387,Mercedes Benz C,Mercedes,2002,399000.0,41000,Petrol
+388,Maruti Suzuki Ertiga,Maruti,2013,450000.0,90000,Diesel
+389,Honda City,Honda,2000,65000.0,80000,Petrol
+390,Hyundai Santro Xing,Hyundai,2006,75000.0,46000,Petrol
+391,Maruti Suzuki Omni,Maruti,2001,70000.0,70000,Petrol
+392,Hyundai Sonata Transform,Hyundai,2017,190000.0,36469,Diesel
+393,Hyundai Elite i20,Hyundai,2018,600000.0,7800,Petrol
+394,Volkswagen Vento Konekt,Volkswagen,2011,245000.0,65000,Diesel
+395,Maruti Suzuki Alto,Maruti,2017,240000.0,60000,Petrol
+396,Maruti Suzuki Alto,Maruti,2011,155000.0,32000,Petrol
+397,Honda Jazz S,Honda,2009,169999.0,24695,Petrol
+398,Hyundai Grand i10,Hyundai,2017,450000.0,15141,Petrol
+399,Maruti Suzuki Zen,Maruti,2001,40000.0,40000,Petrol
+400,Mahindra Scorpio W,Mahindra,2012,165000.0,65000,Diesel
+401,Maruti Suzuki Alto,Maruti,2014,270000.0,22000,Petrol
+402,Hyundai Grand i10,Hyundai,2016,280000.0,59910,Diesel
+403,Mahindra XUV500 W8,Mahindra,2012,560000.0,100000,Diesel
+404,Hyundai Creta 1.6,Hyundai,2016,950000.0,25000,Petrol
+405,Hyundai i20 Magna,Hyundai,2013,310000.0,35000,Petrol
+406,Renault Duster 85,Renault,2015,715000.0,65000,Diesel
+407,Hyundai Grand i10,Hyundai,2014,340000.0,35000,Petrol
+408,Honda Brio V,Honda,2012,235000.0,33000,Petrol
+409,Mahindra TUV300 T4,Mahindra,2017,610000.0,68000,Diesel
+410,Chevrolet Spark LS,Chevrolet,2010,95000.0,23000,Petrol
+411,Mahindra TUV300 T8,Mahindra,2018,1000000.0,4500,Diesel
+412,Maruti Suzuki Swift,Maruti,2015,220000.0,129000,Diesel
+413,Nissan X Trail,Nissan,2019,1200000.0,300,Diesel
+414,Maruti Suzuki Alto,Maruti,2015,230000.0,5000,Petrol
+415,Ford Ikon 1.3,Ford,2001,45000.0,65000,Petrol
+416,Toyota Fortuner 3.0,Toyota,2010,940000.0,131000,Diesel
+417,Tata Manza ELAN,Tata,2010,155555.0,111111,Petrol
+418,Mercedes Benz A,Mercedes,2013,1500000.0,14000,Petrol
+419,Chevrolet Beat LS,Chevrolet,2016,210000.0,22000,Diesel
+420,Ford EcoSport Trend,Ford,2013,495000.0,38000,Diesel
+421,Tata Indigo LS,Tata,2016,125000.0,70000,Diesel
+422,Hyundai i20 Magna,Hyundai,2010,195000.0,36000,Petrol
+423,Volkswagen Vento Highline,Volkswagen,2015,550000.0,34000,Diesel
+424,Renault Kwid RXT,Renault,2015,270000.0,43000,Petrol
+425,Ford EcoSport Titanium,Ford,2014,500000.0,40000,Diesel
+426,Honda Amaze 1.5,Honda,2016,240000.0,160000,Diesel
+427,Hyundai Verna 1.6,Hyundai,2017,800000.0,12000,Petrol
+428,BMW 5 Series,BMW,2011,1299000.0,49000,Diesel
+429,Skoda Superb 1.8,Skoda,2011,530000.0,68000,Petrol
+430,Audi Q3 2.0,Audi,2013,1499000.0,37000,Diesel
+431,Mahindra Bolero DI,Mahindra,2012,220000.0,59466,Diesel
+432,Maruti Suzuki Zen,Maruti,2011,404688.53,16000,Petrol
+433,Mahindra Scorpio S10,Mahindra,2015,900000.0,97200,Diesel
+434,Ford Figo Duratorq,Ford,2012,250000.0,99000,Diesel
+435,Maruti Suzuki Wagon,Maruti,2018,395000.0,25500,Petrol
+436,Mahindra Logan Diesel,Mahindra,2009,130000.0,66000,Petrol
+437,Tata Nano GenX,Tata,2010,32000.0,44005,Petrol
+438,Mahindra TUV300 T4,Mahindra,2016,540000.0,35000,Diesel
+439,Mahindra TUV300 T4,Mahindra,2016,540000.0,35000,Diesel
+440,Hyundai Elite i20,Hyundai,2015,405000.0,28000,Petrol
+441,Hyundai Elite i20,Hyundai,2015,400000.0,30000,Petrol
+442,Honda City SV,Honda,2017,760000.0,4000,Petrol
+443,Maruti Suzuki Baleno,Maruti,2016,500000.0,28000,Petrol
+444,Ford Figo Petrol,Ford,2011,175000.0,75000,Petrol
+445,Mahindra Scorpio S10,Mahindra,2015,900000.0,97200,Diesel
+446,Honda City,Honda,2017,750000.0,3000,Petrol
+447,Hyundai Elite i20,Hyundai,2015,419000.0,20000,Petrol
+448,Maruti Suzuki Versa,Maruti,2004,90000.0,50000,Petrol
+449,Hyundai Eon Era,Hyundai,2018,140000.0,2110,Petrol
+450,Mitsubishi Pajero Sport,Mitsubishi,2015,1540000.0,43222,Petrol
+451,Hyundai i10 Magna,Hyundai,2008,275000.0,100200,Petrol
+452,Toyota Corolla H2,Toyota,2003,150000.0,100000,Petrol
+453,Maruti Suzuki Swift,Maruti,2011,230000.0,65,Petrol
+454,Tata Indigo CS,Tata,2015,123000.0,100000,Diesel
+455,Mahindra Scorpio S10,Mahindra,2015,900000.0,97200,Diesel
+456,Mahindra Scorpio S10,Mahindra,2015,900000.0,97200,Diesel
+457,Hyundai Xcent Base,Hyundai,2016,300000.0,140000,Diesel
+458,Honda City,Honda,2015,499999.0,55000,Petrol
+459,Hyundai Accent Executive,Hyundai,2009,165000.0,48000,Petrol
+460,Maruti Suzuki Baleno,Maruti,2016,498000.0,22000,Petrol
+461,Tata Zest XE,Tata,2018,480000.0,103553,Diesel
+462,Maruti Suzuki Dzire,Maruti,2017,488000.0,80000,Diesel
+463,Tata Sumo Gold,Tata,2014,250000.0,99000,Diesel
+464,Toyota Corolla Altis,Toyota,2010,220000.0,58000,Petrol
+465,Maruti Suzuki Eeco,Maruti,2013,290000.0,70000,LPG
+466,Toyota Fortuner 3.0,Toyota,2015,1525000.0,120000,Diesel
+467,Mahindra XUV500 W6,Mahindra,2013,548900.0,49800,Diesel
+468,Tata Tigor Revotron,Tata,2019,650000.0,100,Diesel
+469,Maruti Suzuki 800,Maruti,2001,55000.0,81876,Petrol
+470,Maruti Suzuki Ertiga,Maruti,2015,550000.0,75000,Petrol
+471,Maruti Suzuki Versa,Maruti,2004,90000.0,50000,Petrol
+472,Honda Mobilio S,Honda,2014,399000.0,44000,Diesel
+473,Maruti Suzuki Ertiga,Maruti,2016,730000.0,55000,Diesel
+474,Maruti Suzuki Vitara,Maruti,2017,725000.0,36000,Diesel
+475,Hyundai Verna 1.6,Hyundai,2016,195000.0,56000,Diesel
+476,Maruti Suzuki Swift,Maruti,2007,130000.0,62000,Petrol
+477,Toyota Fortuner 3.0,Toyota,2015,1525000.0,120000,Diesel
+478,Maruti Suzuki Omni,Maruti,2014,190000.0,6020,Petrol
+479,Honda Amaze,Honda,2013,250000.0,55700,Diesel
+480,Tata Indica,Tata,2005,80000.0,42000,Petrol
+481,Hyundai Santro Xing,Hyundai,2003,120000.0,50000,Petrol
+482,Maruti Suzuki Zen,Maruti,2010,149000.0,35000,Petrol
+483,Maruti Suzuki Wagon,Maruti,2014,250000.0,18500,Petrol
+484,Maruti Suzuki Wagon,Maruti,2007,120000.0,7000,Petrol
+485,Honda Brio VX,Honda,2017,450000.0,11000,Petrol
+486,Hyundai Xcent Base,Hyundai,2015,404688.53,180000,Diesel
+487,Maruti Suzuki Zen,Maruti,2003,99999.0,53000,Petrol
+488,Maruti Suzuki Zen,Maruti,2008,135000.0,23000,Petrol
+489,Maruti Suzuki Wagon,Maruti,2016,225000.0,35500,Diesel
+490,Maruti Suzuki Alto,Maruti,2010,99000.0,22134,Petrol
+491,Renault Kwid RXT,Renault,2019,370000.0,1000,Petrol
+492,Tata Nano Lx,Tata,2010,52000.0,9000,Petrol
+493,Jaguar XE XE,Jaguar,2016,2800000.0,8500,Petrol
+494,Hyundai Xcent S,Hyundai,2015,404688.53,35000,Petrol
+495,Hyundai Eon Magna,Hyundai,2014,190000.0,35000,Petrol
+496,Honda City 1.5,Honda,2014,499000.0,22000,Petrol
+497,Hindustan Motors Ambassador,Hindustan,2002,90000.0,25000,Diesel
+498,Maruti Suzuki Ritz,Maruti,2010,149000.0,40000,Petrol
+499,Hyundai Grand i10,Hyundai,2017,400000.0,20000,Petrol
+500,Hyundai Eon D,Hyundai,2016,120000.0,87000,Petrol
+501,Maruti Suzuki Swift,Maruti,2015,250000.0,55000,Petrol
+502,Maruti Suzuki Wagon,Maruti,2017,375000.0,23000,Petrol
+503,Honda Amaze 1.2,Honda,2014,381000.0,6000,Petrol
+504,Maruti Suzuki Estilo,Maruti,2013,180000.0,65000,Petrol
+505,Maruti Suzuki Vitara,Maruti,2016,580000.0,25000,Diesel
+506,Maruti Suzuki Eeco,Maruti,2015,278000.0,39000,Petrol
+507,Toyota Innova 2.0,Toyota,2009,404688.53,15574,Diesel
+508,Hyundai Creta 1.6,Hyundai,2016,1000000.0,8000,Petrol
+509,Mahindra Scorpio Vlx,Mahindra,2013,690000.0,75000,Diesel
+510,Maruti Suzuki Ertiga,Maruti,2012,480000.0,51000,Diesel
+511,Mitsubishi Lancer 1.8,Mitsubishi,2006,85000.0,50000,Petrol
+512,Maruti Suzuki Maruti,Maruti,2001,40000.0,75000,Petrol
+513,Maruti Suzuki Alto,Maruti,2015,90000.0,55800,Petrol
+514,Hyundai Grand i10,Hyundai,2015,340000.0,53000,Petrol
+515,Hyundai Eon D,Hyundai,2018,260000.0,25000,Petrol
+516,Ford Fiesta SXi,Ford,2009,250000.0,56400,Petrol
+517,Maruti Suzuki Ritz,Maruti,2010,180000.0,72160,Diesel
+518,Hyundai Verna Fluidic,Hyundai,2012,350000.0,10000,Diesel
+519,Maruti Suzuki Wagon,Maruti,2006,90001.0,48000,Petrol
+520,Maruti Suzuki Estilo,Maruti,2007,115000.0,36000,Petrol
+521,Audi A6 2.0,Audi,2012,1599000.0,11500,Diesel
+522,Maruti Suzuki Wagon,Maruti,2003,130000.0,133000,Petrol
+523,Maruti Suzuki Wagon,Maruti,2009,159000.0,27000,Petrol
+524,Maruti Suzuki Wagon,Maruti,2009,160000.0,35000,Petrol
+525,Maruti Suzuki Alto,Maruti,2010,110000.0,55000,Petrol
+526,Maruti Suzuki Baleno,Maruti,2016,425000.0,40000,Petrol
+527,Hyundai Verna 1.6,Hyundai,2019,900000.0,2000,Petrol
+528,Maruti Suzuki Swift,Maruti,2009,150000.0,45000,Petrol
+529,Hyundai Getz Prime,Hyundai,2009,110000.0,20000,Petrol
+530,Hyundai Santro,Hyundai,2000,51999.0,88000,Petrol
+531,Hyundai Getz Prime,Hyundai,2009,115000.0,20000,Petrol
+532,Chevrolet Beat PS,Chevrolet,2012,215000.0,65422,Diesel
+533,Ford EcoSport Trend,Ford,2017,580000.0,10000,Petrol
+534,Maruti Suzuki Dzire,Maruti,2013,380000.0,35000,Petrol
+535,Hyundai Fluidic Verna,Hyundai,2013,350000.0,117000,Diesel
+536,Tata Indica V2,Tata,2005,35000.0,150000,Diesel
+537,BMW X1 xDrive20d,BMW,2011,1150000.0,72000,Diesel
+538,Hyundai i20 Asta,Hyundai,2010,300000.0,10750,Petrol
+539,Honda City 1.5,Honda,2009,269000.0,55000,Petrol
+540,Tata Nano,Tata,2013,60000.0,6800,Petrol
+541,Chevrolet Cruze LTZ,Chevrolet,2014,400000.0,41000,Diesel
+542,Hyundai Verna Fluidic,Hyundai,2015,430000.0,73000,Diesel
+543,Maruti Suzuki Swift,Maruti,2011,140000.0,65000,Diesel
+544,Mahindra XUV500 W10,Mahindra,2018,1299000.0,40000,Diesel
+545,Maruti Suzuki Alto,Maruti,2014,199000.0,37000,Petrol
+546,Hyundai Accent GLE,Hyundai,2006,90000.0,55000,Petrol
+547,Force Motors One,Force,2013,550000.0,140000,Diesel
+548,Datsun Go Plus,Datsun,2016,404688.53,5,Petrol
+549,Maruti Suzuki Alto,Maruti,2019,265000.0,9800,Petrol
+550,Chevrolet Spark 1.0,Chevrolet,2011,100000.0,27000,Petrol
+551,Hyundai i10,Hyundai,2009,215000.0,27000,Petrol
+552,Toyota Etios Liva,Toyota,2012,380000.0,20000,Diesel
+553,Renault Duster 85PS,Renault,2013,401919.0,57923,Diesel
+554,Chevrolet Enjoy,Chevrolet,2014,490000.0,30201,Diesel
+555,Maruti Suzuki Alto,Maruti,2017,280000.0,6200,Petrol
+556,BMW 5 Series,BMW,2009,650000.0,37518,Petrol
+557,Toyota Etios Liva,Toyota,2014,160000.0,24652,Petrol
+558,Mahindra Jeep MM,Mahindra,2004,424000.0,383,Diesel
+559,Chevrolet Beat LS,Chevrolet,2016,225000.0,95000,Diesel
+560,Chevrolet Cruze LTZ,Chevrolet,2011,350000.0,35000,Diesel
+561,Jeep Wrangler Unlimited,Jeep,2015,950000.0,3528,Diesel
+562,Maruti Suzuki Ertiga,Maruti,2013,485000.0,52500,Diesel
+563,Hyundai Verna VGT,Hyundai,2010,205000.0,47900,Diesel
+564,Maruti Suzuki Omni,Maruti,2012,160000.0,14000,Petrol
+565,Maruti Suzuki Celerio,Maruti,2018,310000.0,37000,Petrol
+566,Tata Zest Quadrajet,Tata,2017,180000.0,90000,Diesel
+567,Mahindra XUV500 W6,Mahindra,2013,549900.0,52800,Diesel
+568,Tata Indigo CS,Tata,2016,150000.0,104000,Diesel
+569,Hyundai i10 Era,Hyundai,2011,175000.0,30000,Petrol
+570,Tata Indigo eCS,Tata,2014,95000.0,195000,Diesel
+571,Tata Indigo LX,Tata,2016,230000.0,104000,Diesel
+572,Tata Indigo eCS,Tata,2016,230000.0,104000,Diesel
+573,Tata Indigo Marina,Tata,2004,180000.0,70000,Diesel
+574,Hyundai Xcent SX,Hyundai,2015,400000.0,43000,Diesel
+575,Hyundai Eon Magna,Hyundai,2013,185000.0,23000,Petrol
+576,Renault Duster 85,Renault,2015,385000.0,51000,Diesel
+577,Maruti Suzuki Alto,Maruti,2009,90000.0,62000,Petrol
+578,Tata Nano LX,Tata,2010,32000.0,48008,Petrol
+579,Renault Duster 110,Renault,2013,435000.0,39000,Diesel
+580,Maruti Suzuki Wagon,Maruti,2010,225000.0,40000,Petrol
+581,Maruti Suzuki Swift,Maruti,2006,189700.0,48247,Petrol
+582,Maruti Suzuki Ertiga,Maruti,2012,389700.0,39000,Diesel
+583,Maruti Suzuki Swift,Maruti,2014,365000.0,23000,Petrol
+584,Maruti Suzuki Alto,Maruti,2017,360000.0,9400,Petrol
+585,Hyundai i20 Magna,Hyundai,2010,210000.0,50000,Petrol
+586,Hyundai i10 Magna,Hyundai,2009,170000.0,75000,Petrol
+587,Tata Zest XE,Tata,2017,380000.0,70000,Diesel
+588,Mahindra Xylo E8,Mahindra,2009,295000.0,64000,Diesel
+589,Toyota Corolla Altis,Toyota,2010,185000.0,55000,Petrol
+590,Tata Manza Aqua,Tata,2014,160000.0,200000,Diesel
+591,Mahindra KUV100 K8,Mahindra,2018,404688.53,7500,Diesel
+592,Renault Kwid 1.0,Renault,2018,290000.0,2137,Petrol
+593,Tata Venture EX,Tata,2013,100000.0,30000,Diesel
+594,Maruti Suzuki Swift,Maruti,2014,315000.0,44000,Petrol
+595,Maruti Suzuki Alto,Maruti,2002,404688.53,56000,Petrol
+596,Skoda Octavia Classic,Skoda,2006,114990.0,65000,Diesel
+597,Maruti Suzuki Omni,Maruti,2012,120000.0,160000,LPG
+598,Chevrolet Beat Diesel,Chevrolet,2011,125000.0,56000,Diesel
+599,Tata Sumo Gold,Tata,2012,210000.0,75000,Diesel
+600,Hyundai Verna 1.6,Hyundai,2018,855000.0,42000,Diesel
+601,Tata Sumo Gold,Tata,2012,210000.0,75000,Diesel
+602,Mahindra Scorpio 2.6,Mahindra,2007,260000.0,56000,Diesel
+603,Maruti Suzuki Zen,Maruti,2002,95000.0,10544,Petrol
+604,Maruti Suzuki Swift,Maruti,2011,255000.0,64000,Petrol
+605,Mahindra Scorpio SLX,Mahindra,2008,300000.0,70000,Diesel
+606,Hyundai Grand i10,Hyundai,2014,340000.0,25000,Petrol
+607,Hyundai Elite i20,Hyundai,2017,550000.0,15000,Petrol
+608,Ford Ikon 1.6,Ford,2003,60000.0,50000,Petrol
+609,Hyundai Elite i20,Hyundai,2015,404688.53,49500,Petrol
+610,Toyota Innova 2.5,Toyota,2011,750000.0,147000,Diesel
+611,Nissan Sunny XL,Nissan,2011,230000.0,52000,Petrol
+612,Chevrolet Beat LT,Chevrolet,2012,130000.0,90001,Diesel
+613,Maruti Suzuki Alto,Maruti,2017,270000.0,21000,Petrol
+614,Maruti Suzuki Swift,Maruti,2012,280000.0,48006,Diesel
+615,Maruti Suzuki Swift,Maruti,2012,280000.0,48006,Diesel
+616,Maruti Suzuki Swift,Maruti,2012,280000.0,48006,Diesel
+617,Toyota Innova 2.0,Toyota,2012,600000.0,80000,Diesel
+618,Maruti Suzuki Swift,Maruti,2010,190000.0,74000,Diesel
+619,Hyundai Elite i20,Hyundai,2015,500000.0,22000,Petrol
+620,Mahindra XUV500 W10,Mahindra,2016,1065000.0,41000,Diesel
+621,Volkswagen Polo Trendline,Volkswagen,2015,350000.0,25000,Diesel
+622,Toyota Etios Liva,Toyota,2012,350000.0,85000,Diesel
+623,Mahindra TUV300 T4,Mahindra,2016,540000.0,29500,Diesel
+624,Hyundai Elite i20,Hyundai,2015,470000.0,30000,Petrol
+625,Hyundai Santro Xing,Hyundai,2014,179000.0,57000,Petrol
+626,Maruti Suzuki Zen,Maruti,2003,48000.0,60000,Petrol
+627,Maruti Suzuki Ciaz,Maruti,2016,650000.0,50000,Petrol
+628,Hyundai Eon Era,Hyundai,2013,190000.0,39700,Petrol
+629,Hyundai Elantra 1.8,Hyundai,2012,500000.0,65000,Petrol
+630,Maruti Suzuki Swift,Maruti,2010,270000.0,67000,Diesel
+631,Maruti Suzuki Zen,Maruti,2008,125000.0,46000,Petrol
+632,Hyundai Eon Era,Hyundai,2012,188000.0,38000,Petrol
+633,Hyundai Grand i10,Hyundai,2016,380000.0,27000,Petrol
+634,Hyundai Verna Fluidic,Hyundai,2011,365000.0,43000,Diesel
+635,Ford EcoSport Trend,Ford,2014,465000.0,47000,Petrol
+636,Hyundai i20 Magna,Hyundai,2011,240000.0,42000,Petrol
+637,Chevrolet Beat Diesel,Chevrolet,2016,179999.0,19336,Diesel
+638,Tata Indica eV2,Tata,2015,140000.0,60105,Diesel
+639,Jaguar XF 2.2,Jaguar,2013,2190000.0,29000,Diesel
+640,Audi Q5 2.0,Audi,2014,2390000.0,34000,Diesel
+641,BMW 3 Series,BMW,2011,1075000.0,35000,Diesel
+642,Maruti Suzuki Swift,Maruti,2015,475000.0,22000,Petrol
+643,BMW X1 sDrive20d,BMW,2012,1025000.0,41000,Diesel
+644,Maruti Suzuki S,Maruti,2016,615000.0,21000,Diesel
+645,Maruti Suzuki Ertiga,Maruti,2013,475000.0,48000,Diesel
+646,Maruti Suzuki Alto,Maruti,2016,270000.0,38000,Petrol
+647,Honda City SV,Honda,2014,475000.0,34000,Diesel
+648,Volkswagen Vento Comfortline,Volkswagen,2011,240000.0,45933,Petrol
+649,Honda City 1.5,Honda,2005,120000.0,68000,Petrol
+650,Audi A4 2.0,Audi,2016,1900000.0,44000,Diesel
+651,Mahindra KUV100,Mahindra,2017,360000.0,35000,Diesel
+652,Tata Zest XE,Tata,2018,450000.0,102563,Diesel
+653,Mahindra XUV500 W8,Mahindra,2015,900000.0,28600,Diesel
+654,Maruti Suzuki Swift,Maruti,2017,650000.0,41800,Diesel
+655,Tata Sumo Gold,Tata,2014,275000.0,116000,Diesel
+656,Maruti Suzuki Swift,Maruti,2009,210000.0,59000,Petrol
+657,Mahindra Scorpio 2.6,Mahindra,2004,175000.0,58000,Diesel
+658,Maruti Suzuki Omni,Maruti,2009,85000.0,45000,Petrol
+659,Mitsubishi Pajero Sport,Mitsubishi,2015,1490000.0,42590,Diesel
+660,Renault Duster,Renault,2014,800000.0,7400,Diesel
+661,Volkswagen Jetta Comfortline,Volkswagen,2009,450000.0,54500,Diesel
+662,Maruti Suzuki Ertiga,Maruti,2012,1000000.0,200000,Diesel
+663,Audi A4 2.0,Audi,2013,1510000.0,27000,Diesel
+664,Volvo S80 Summum,Volvo,2015,1850000.0,42000,Diesel
+665,Toyota Corolla Altis,Toyota,2014,790000.0,29000,Petrol
+666,Mitsubishi Pajero Sport,Mitsubishi,2015,1725000.0,37000,Diesel
+667,Chevrolet Beat LT,Chevrolet,2012,135000.0,36000,Petrol
+668,BMW X1,BMW,2011,1000000.0,34000,Diesel
+669,Datsun Redi GO,Datsun,2018,299999.0,7000,Petrol
+670,Mercedes Benz C,Mercedes,2009,1225000.0,76000,Diesel
+671,Mahindra Scorpio SLX,Mahindra,2004,175000.0,60000,Diesel
+672,Volkswagen Vento Comfortline,Volkswagen,2011,200000.0,95000,Diesel
+673,Tata Indigo CS,Tata,2017,270000.0,50000,Diesel
+674,Ford Figo Petrol,Ford,2019,525000.0,0,Petrol
+675,Honda City ZX,Honda,2006,180000.0,50000,Petrol
+676,Maruti Suzuki Wagon,Maruti,2008,140000.0,68000,Petrol
+677,Ford EcoSport Trend,Ford,2014,400000.0,16000,Petrol
+678,Maruti Suzuki Swift,Maruti,2016,499000.0,51000,Diesel
+679,Maruti Suzuki Omni,Maruti,2009,85000.0,56000,Petrol
+680,Maruti Suzuki Zen,Maruti,2004,70000.0,100000,Petrol
+681,Renault Duster RxL,Renault,2015,550000.0,36000,Petrol
+682,Maruti Suzuki Swift,Maruti,2014,370000.0,11523,Petrol
+683,Maruti Suzuki Baleno,Maruti,2018,690000.0,1000,Petrol
+684,Honda WR V,Honda,2009,250000.0,60000,Petrol
+685,Tata Indigo CS,Tata,2016,110000.0,85000,Diesel
+686,Renault Duster 110,Renault,2013,490000.0,38600,Diesel
+687,Mahindra Scorpio LX,Mahindra,2009,320000.0,95500,Diesel
+688,Maruti Suzuki Zen,Maruti,2004,68000.0,56000,Petrol
+689,Maruti Suzuki Wagon,Maruti,2014,130000.0,37458,Petrol
+690,Maruti Suzuki SX4,Maruti,2016,970000.0,85960,Diesel
+691,Audi A3 Cabriolet,Audi,2015,3100000.0,12516,Petrol
+692,Hyundai Eon D,Hyundai,2018,280000.0,35000,Petrol
+693,Maruti Suzuki Zen,Maruti,2009,125000.0,0,Petrol
+694,Mahindra Scorpio SLX,Mahindra,2008,285000.0,80000,Diesel
+695,Hyundai Santro AE,Hyundai,2011,165000.0,45000,Petrol
+696,Maruti Suzuki Swift,Maruti,2009,250000.0,51000,Diesel
+697,Mahindra Scorpio S4,Mahindra,2015,865000.0,30000,Diesel
+698,Mahindra Xylo D2,Mahindra,2011,390000.0,48000,Diesel
+699,Hyundai Santro,Hyundai,2003,60000.0,51000,Petrol
+700,Chevrolet Beat LT,Chevrolet,2015,215000.0,90000,Diesel
+701,Maruti Suzuki Swift,Maruti,2015,475000.0,43000,Diesel
+702,Mahindra XUV500 W8,Mahindra,2015,899000.0,53000,Diesel
+703,Toyota Fortuner 3.0,Toyota,2013,1499000.0,97000,Diesel
+704,Maruti Suzuki Alto,Maruti,2013,240000.0,20000,Petrol
+705,Hyundai Getz GLE,Hyundai,2007,99000.0,55000,Petrol
+706,Maruti Suzuki Swift,Maruti,2014,260000.0,120000,Diesel
+707,Hyundai Creta 1.6,Hyundai,2019,1200000.0,0,Petrol
+708,Hyundai Santro Xing,Hyundai,2007,115000.0,46000,Petrol
+709,Hyundai Santro Xing,Hyundai,2009,88000.0,43200,Petrol
+710,Mahindra Xylo D2,Mahindra,2011,390000.0,56000,Diesel
+711,Hyundai Santro Xing,Hyundai,2007,135000.0,42000,Petrol
+712,Tata Indica V2,Tata,2009,90000.0,30600,Diesel
+713,Hyundai i10 Sportz,Hyundai,2011,220000.0,38000,Petrol
+714,Hyundai Grand i10,Hyundai,2017,424999.0,2550,Petrol
+715,Hyundai Santro Xing,Hyundai,2007,135000.0,47000,Petrol
+716,Honda City 1.5,Honda,2005,95000.0,41000,Petrol
+717,Nissan Micra XL,Nissan,2017,430000.0,62500,Diesel
+718,Honda City 1.5,Honda,2005,115000.0,68000,Petrol
+719,Maruti Suzuki Alto,Maruti,2015,215000.0,50000,Petrol
+720,Maruti Suzuki Wagon,Maruti,2004,53000.0,69000,Petrol
+721,Maruti Suzuki Ertiga,Maruti,2012,500000.0,48000,Diesel
+722,Tata Indica eV2,Tata,2012,85000.0,55000,Diesel
+723,Maruti Suzuki Omni,Maruti,2013,165000.0,25000,Petrol
+724,Hyundai Eon Era,Hyundai,2014,200000.0,28400,Petrol
+725,Hyundai Eon,Hyundai,2014,200000.0,28000,Petrol
+726,Maruti Suzuki Swift,Maruti,2015,425000.0,42000,Diesel
+727,Hyundai Verna 1.6,Hyundai,2012,600000.0,29000,Diesel
+728,Chevrolet Tavera LS,Chevrolet,2005,130000.0,68485,Diesel
+729,Tata Tiago Revotron,Tata,2018,430000.0,3500,Petrol
+730,Tata Tiago Revotorq,Tata,2019,568500.0,0,Petrol
+731,Tata Nexon,Tata,2019,404688.53,0,Petrol
+732,Maruti Suzuki Zen,Maruti,2006,71000.0,32000,Petrol
+733,Mahindra KUV100 K8,Mahindra,2018,560000.0,8000,Diesel
+734,Ford EcoSport Titanium,Ford,2014,590000.0,34000,Diesel
+735,Hindustan Motors Ambassador,Hindustan,1995,750000.0,37000,Petrol
+736,Ford Fusion 1.4,Ford,2007,125000.0,85455,Diesel
+737,Hyundai Santro Xing,Hyundai,2007,135000.0,46000,Petrol
+738,Hyundai Santro,Hyundai,2002,60000.0,47000,Petrol
+739,Fiat Linea Emotion,Fiat,2009,120000.0,64000,Petrol
+740,Ford Ikon 1.3,Ford,2008,95000.0,46000,Petrol
+741,Maruti Suzuki Omni,Maruti,2017,240000.0,8000,Petrol
+742,Tata Indica V2,Tata,2012,115000.0,64000,Diesel
+743,Mahindra Scorpio S4,Mahindra,2015,795000.0,63000,Diesel
+744,Hyundai Santro Xing,Hyundai,2007,55000.0,65000,Petrol
+745,Mahindra Xylo D2,Mahindra,2009,300000.0,62000,Diesel
+746,Hyundai Grand i10,Hyundai,2014,320000.0,41000,Petrol
+747,Maruti Suzuki Alto,Maruti,2015,265000.0,14000,Petrol
+748,Toyota Corolla,Toyota,2006,160000.0,40000,Petrol
+749,Hyundai Eon Magna,Hyundai,2017,300000.0,1600,Petrol
+750,Tata Sumo Grande,Tata,2010,130000.0,90000,Diesel
+751,Maruti Suzuki Swift,Maruti,2011,250000.0,58000,Diesel
+752,Volkswagen Polo Highline1.2L,Volkswagen,2013,380000.0,27000,Petrol
+753,Maruti Suzuki Alto,Maruti,2003,42000.0,60000,Petrol
+754,Tata Tiago Revotron,Tata,2017,400000.0,31000,Petrol
+755,Maruti Suzuki Swift,Maruti,2009,120000.0,90000,Diesel
+756,Maruti Suzuki Swift,Maruti,2009,120000.0,90000,Diesel
+757,Tata Indigo eCS,Tata,2016,130000.0,150000,Diesel
+758,Chevrolet Beat LS,Chevrolet,2014,189000.0,31000,Diesel
+759,Mahindra Xylo E8,Mahindra,2011,365000.0,43000,Diesel
+760,Hyundai Eon D,Hyundai,2013,170000.0,20000,Petrol
+761,Tata Sumo Gold,Tata,2013,215000.0,100000,Petrol
+762,Tata Nano,Tata,2013,60000.0,7000,Petrol
+763,Hyundai Elite i20,Hyundai,2017,599999.0,31000,Petrol
+764,Hyundai i10 Magna,Hyundai,2009,400000.0,33000,Petrol
+765,Hyundai Creta,Hyundai,2016,900000.0,60000,Diesel
+766,Volkswagen Polo,Volkswagen,2013,299999.0,48000,Diesel
+767,Maruti Suzuki Dzire,Maruti,2014,374999.0,33000,Petrol
+768,Tata Bolt XM,Tata,2015,600000.0,15000,Petrol
+769,Maruti Suzuki Alto,Maruti,2005,70000.0,47000,Petrol
+770,Maruti Suzuki Alto,Maruti,2005,100000.0,40000,Petrol
+771,Hyundai Venue,Hyundai,2019,404688.53,7000,Diesel
+772,Maruti Suzuki Ritz,Maruti,2010,150000.0,38000,Diesel
+773,Maruti Suzuki Alto,Maruti,2017,225000.0,12500,Petrol
+774,Maruti Suzuki Dzire,Maruti,2009,210000.0,42000,Petrol
+775,Renault Lodgy,Renault,2016,404688.53,20000,Diesel
+776,Hyundai i20 Asta,Hyundai,2014,425000.0,31000,Petrol
+777,Maruti Suzuki Swift,Maruti,2008,162000.0,60000,Diesel
+778,Tata Indica V2,Tata,2005,60000.0,80000,Diesel
+779,Mahindra Scorpio VLX,Mahindra,2014,650000.0,77000,Diesel
+780,Toyota Innova 2.5,Toyota,2012,750000.0,75000,Diesel
+781,Mahindra Xylo E8,Mahindra,2010,375000.0,40000,Diesel
+782,Hyundai i20 Magna,Hyundai,2011,230000.0,47000,Petrol
+783,Maruti Suzuki Omni,Maruti,2000,35999.0,60000,Petrol
+784,Mahindra KUV100,Mahindra,2016,380000.0,26500,Petrol
+785,Mahindra KUV100 K8,Mahindra,2019,560000.0,2875,Petrol
+786,Datsun Go Plus,Datsun,2016,285000.0,13900,Petrol
+787,Ford Endeavor 4x4,Ford,2019,2900000.0,9000,Diesel
+788,Tata Indica V2,Tata,2005,39999.0,80000,Diesel
+789,Hyundai Santro Xing,Hyundai,2006,85000.0,60000,Petrol
+790,Maruti Suzuki Wagon,Maruti,2016,395000.0,20000,Petrol
+791,Maruti Suzuki Swift,Maruti,2008,175000.0,58000,Diesel
+792,Maruti Suzuki Alto,Maruti,2019,400000.0,1500,Petrol
+793,Toyota Innova 2.5,Toyota,2011,750000.0,75000,Diesel
+794,Maruti Suzuki Alto,Maruti,2016,250000.0,2450,Petrol
+795,Maruti Suzuki Alto,Maruti,2019,425000.0,1625,Petrol
+796,Maruti Suzuki Alto,Maruti,2019,404688.53,1500,Petrol
+797,Volkswagen Polo Highline1.2L,Volkswagen,2017,525000.0,45000,Petrol
+798,Mahindra Logan,Mahindra,2009,130000.0,65000,Diesel
+799,Maruti Suzuki 800,Maruti,2000,30000.0,33400,Petrol
+800,Mahindra Scorpio,Mahindra,2011,475000.0,60123,Diesel
+801,Chevrolet Sail 1.2,Chevrolet,2013,300000.0,28000,Petrol
+802,Volkswagen Vento Highline,Volkswagen,2015,404688.53,38900,Diesel
+803,Hyundai Santro AE,Hyundai,2003,60000.0,70000,Petrol
+804,Maruti Suzuki Wagon,Maruti,2006,100000.0,7000,Petrol
+805,Hyundai Eon,Hyundai,2018,260000.0,25000,Petrol
+806,Tata Manza,Tata,2015,100000.0,100000,Diesel
+807,Toyota Innova 2.0,Toyota,2019,404688.53,4000,Petrol
+808,Toyota Etios G,Toyota,2013,265000.0,42000,Petrol
+809,Hyundai Getz Prime,Hyundai,2009,115000.0,20000,Petrol
+810,Toyota Qualis,Toyota,2003,180000.0,100000,Diesel
+811,Hyundai Santro Xing,Hyundai,2004,45000.0,137495,Petrol
+812,Tata Indica eV2,Tata,2016,50500.0,91200,Diesel
+813,Honda City 1.5,Honda,2009,270000.0,55000,Petrol
+814,Tata Zest XE,Tata,2017,290000.0,120000,Diesel
+815,Mahindra Quanto C4,Mahindra,2013,325000.0,63000,Diesel
+816,Tata Indigo eCS,Tata,2016,160000.0,104000,Diesel
+817,Maruti Suzuki Swift,Maruti,2016,350000.0,146000,Diesel
+818,Hyundai Elite i20,Hyundai,2011,290000.0,40000,Petrol
+819,Hyundai i20 Select,Hyundai,2011,290000.0,40000,Petrol
+820,Chevrolet Tavera Neo,Chevrolet,2007,465000.0,100800,Diesel
+821,Maruti Suzuki Dzire,Maruti,2016,325000.0,150000,Diesel
+822,Hyundai Elite i20,Hyundai,2018,510000.0,2100,Petrol
+823,Honda City VX,Honda,2016,860000.0,95000,Petrol
+824,Maruti Suzuki Dzire,Maruti,2016,450000.0,2500,Diesel
+825,Hyundai Getz,Hyundai,2006,125000.0,80000,Petrol
+826,Mercedes Benz C,Mercedes,2006,500001.0,15000,Petrol
+827,Maruti Suzuki Alto,Maruti,2005,95000.0,65000,Petrol
+828,Maruti Suzuki Swift,Maruti,2009,250000.0,51000,Diesel
+829,Skoda Fabia,Skoda,2009,110000.0,45000,Petrol
+830,Maruti Suzuki Alto,Maruti,2015,404688.53,70000,Petrol
+831,Maruti Suzuki Ritz,Maruti,2011,270000.0,50000,Petrol
+832,Tata Indica V2,Tata,2009,110000.0,30000,Diesel
+833,Toyota Corolla Altis,Toyota,2009,300000.0,132000,Petrol
+834,Tata Zest XM,Tata,2018,260000.0,27000,Diesel
+835,Mahindra Quanto C8,Mahindra,2013,390000.0,40000,Diesel

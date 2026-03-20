@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Center the content */
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #75767B;
+}
+
+/* Outer box */
+.big-dark {
+    background-color: #f1f1f1;
+    padding: 25px;
+    width: 450px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+}
+
+/* All input + dropdown fields */
+input, select {
+    width: 100%;
+    padding: 12px;
+    margin: 12px 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 15px;
+    background-color: white;
+    color: #333;
+}
+
+/* Company field should look same but readonly */
+input[readonly] {
+    background-color: #f7f7f7; /* light grey, not dark */
+    border: 1px solid #ccc;
+    color: #444;
+}
+
+/* To wrap KMS input + suggestion inside */
+.km-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+/* The suggestion placed INSIDE the input box */
+#kms_suggestion {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 12px;
+    color: #777;
+    pointer-events: none;
+}
+
+#kms {
+    padding-left: 120px; /* so typed text doesn’t overlap the suggestion */
+    padding-right: 12px;
+}
+
+/* Add space inside KM input so suggestion fits */
+#kms {
+    padding-right: 130px;
+}
