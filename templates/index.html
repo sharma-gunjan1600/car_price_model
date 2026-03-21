@@ -45,24 +45,22 @@
             font-size: 15px;
         }
 
+        /* FIXED COMPANY FIELD COLOR */
         input[readonly] {
-            background-color: #f8f8f8;
-            border: 1px solid #ccc;
-            color: #555;
+            background-color: #ffffff !important;
+            color: #333333 !important;
+            border: 1px solid #ccc !important;
         }
 
-        /* KM field fix to avoid overlap */
         .km-wrapper {
             position: relative;
             width: 100%;
         }
 
         #kms {
-            padding-left: 12px;
-            padding-right: 150px;  /* FIX: prevent overlap */
+            padding-right: 150px;
         }
 
-        /* Suggested KM stays on RIGHT */
         #kms_suggestion {
             position: absolute;
             right: 12px;
@@ -97,9 +95,7 @@
             var carName = $("#car_name").val();
 
             $.post("/get_details", { car_name: carName }, function(data) {
-
                 $("#company").val(data.company);
-
                 $("#kms_suggestion").text(
                     "Suggested: " + data.kms_min + " - " + data.kms_max + " km"
                 );
@@ -107,6 +103,7 @@
         }
     </script>
 </head>
+
 <body>
 
 <div class="big-dark">

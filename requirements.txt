@@ -1,3 +1,5 @@
+setuptools>=68.0.0
+wheel
 Flask==2.3.3
 gunicorn==21.2.0
 numpy==1.22.2
